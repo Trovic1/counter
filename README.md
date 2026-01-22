@@ -64,3 +64,7 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+## Deployment
+Network: Base Mainnet
+Contract: 0xEC6F03c4B8e007eEf5B64408F63a86ba38b8ec22
+BaseScan: https://basescan.org/address/0xEC6F03c4B8e007eEf5B64408F63a86ba38b8ec22
