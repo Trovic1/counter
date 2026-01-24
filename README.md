@@ -68,3 +68,7 @@ $ cast --help
 Network: Base Mainnet
 Contract: 0xEC6F03c4B8e007eEf5B64408F63a86ba38b8ec22
 BaseScan: https://basescan.org/address/0xEC6F03c4B8e007eEf5B64408F63a86ba38b8ec22
+## OwnableVault Deployment
+Network: Base Mainnet
+Contract: 0x429dB3b9c23a972c4a509fC8D66b56093706eC2a
+BaseScan: https://basescan.org/address/0x429dB3b9c23a972c4a509fC8D66b56093706eC2a
